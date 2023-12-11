@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/ng-openapi-gen/ng-openapi-gen-schema.json",
+  "input": "https://www.hg-tennis.com/swagger/v1/swagger.json",
+  "output": "./src/app/core",
+  "ignoreUnusedModels": false
+}
